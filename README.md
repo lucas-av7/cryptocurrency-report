@@ -4,14 +4,12 @@ React project to consume an API to show the latest status of some cryptocurrenci
 
 ## Technologies and tools used
 
-[React.js](https://reactjs.org/) - Javascript framework
-[TypeScript](https://www.typescriptlang.org/) - Typed JavaScript
-[styled-components](https://styled-components.com/) - CSS in JS
-
-[Axios](https://github.com/axios/axios) - API Calls
-[Moment.js](https://momentjs.com/) - Date handler
-
-[CoinCap API](https://docs.coincap.io/) - Cryptocurrency API
+- [React.js](https://reactjs.org/) - Javascript framework
+- [TypeScript](https://www.typescriptlang.org/) - Typed JavaScript
+- [styled-components](https://styled-components.com/) - CSS in JS
+- [Axios](https://github.com/axios/axios) - API Calls
+- [Moment.js](https://momentjs.com/) - Date handler
+- [CoinCap API](https://docs.coincap.io/) - Cryptocurrency API
 
 ## Available Commands
 
