@@ -2,6 +2,8 @@
 
 React project to consume an API to show the latest status of some cryptocurrencies.
 
+See online: [GH Pages](https://lucas-av7.github.io/cryptocurrency-report/)
+
 ## Technologies and tools used
 
 - [React.js](https://reactjs.org/) - Javascript framework
